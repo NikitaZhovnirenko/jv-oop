@@ -1,7 +1,9 @@
 package core.basesyntax;
 
-public class Truck extends Machine{
+public class Truck extends Machine {
+
     private static final String name = "Truck";
+
     public Truck() {
 
     }
